@@ -1,0 +1,10 @@
+Flask>=2.0
+Werkzeug>=2.0
+numpy>=1.18
+opencv-python>=4.5
+scikit-learn>=1.0
+scikit-image>=0.18
+torch
+torchvision
+matplotlib>=3.0
+grad-cam
